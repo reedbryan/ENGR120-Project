@@ -5,7 +5,7 @@
  - The project's RFP
  - The final presentation of our prototype (see below)
 
-## Final Presentation
+## Final Prototype Demonstration (less than a minute)
 https://youtu.be/heGcohy7eS4
 
 ## Course Outline
