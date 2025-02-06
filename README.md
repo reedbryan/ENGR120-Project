@@ -1,5 +1,11 @@
 # ENGR120-Project
-Code for robot made for first year engineering project (ENGR120)
+
+## This Repo contains:
+ - Code for robot made for first year engineering project (ENGR120)
+ - The project's RFP
+
+## Course Outline
+https://heat.csc.uvic.ca/coview/course/2022011/ENGR120
 
 ## Final Presentation
 https://youtu.be/heGcohy7eS4
